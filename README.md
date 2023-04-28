@@ -1,5 +1,5 @@
 # path_smooth_with_kappa
-
+refer to ：https://github.com/studentlemon/path_smooth_with_kappa  
 
 This is used for smoothing path. SQP optimization model is established in Cartesian coordinate system.
 
