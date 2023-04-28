@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "qcoreapplication": "cpp",
+        "qguiapplication": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "dense": "cpp",
+        "sparse": "cpp",
+        "core": "cpp",
+        "memory": "cpp",
+        "tinyspline.h": "c",
+        "cfloat": "cpp",
+        "iterativelinearsolvers": "cpp",
+        "mprealsupport": "cpp",
+        "matrixfunctions": "cpp",
+        "nonlinearoptimization": "cpp",
+        "tuple": "cpp",
+        "string": "cpp",
+        "*.tpp": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "alignedvector3": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}

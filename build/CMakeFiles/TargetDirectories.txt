@@ -1,0 +1,3 @@
+/home/fason/Documents/HumanHorizons/path_smooth_with_kappa/build/CMakeFiles/edit_cache.dir
+/home/fason/Documents/HumanHorizons/path_smooth_with_kappa/build/CMakeFiles/rebuild_cache.dir
+/home/fason/Documents/HumanHorizons/path_smooth_with_kappa/build/CMakeFiles/optimizer.dir
